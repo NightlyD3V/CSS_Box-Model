@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+    margin: 0;
+}
+#box1{
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+}
+#box2{
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+}
+
+/* Your code here */
